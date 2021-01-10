@@ -1,0 +1,14 @@
+ul{
+    width: 800px;
+    list-style: none;
+    margin: 0 auto;
+
+}
+li{
+    width: 100px;
+    list-style: none;
+    float:left;
+}
+a{
+    text-decoration-line: none;
+}
